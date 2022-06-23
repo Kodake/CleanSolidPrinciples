@@ -49,6 +49,3 @@
     const maxClassesPerStudent = 6;
 
 })();
-
-
-
